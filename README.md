@@ -54,7 +54,7 @@ application:
 
 ## Examples
 
-For a complete, working example, refer to the [login example](https://github.com/jaredhanson/passport-yahoo/tree/master/examples/login).
+For a complete, working example, refer to the [login example](https://github.com/deltanovember/passport-yahoo-oauth-contacts/tree/master/examples/login).
 
 ## Issues
 
