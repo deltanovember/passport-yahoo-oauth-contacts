@@ -1,21 +1,21 @@
 {
-  "name": "passport-yahoo-oauth-contacts",
-  "version": "0.1.3",
+  "name": "passport-yahoo-contacts",
+  "version": "0.1.4",
   "description": "Yahoo! (OAuth) authentication strategy for Passport. Contacts Hack",
   "keywords": ["passport", "yahoo", "auth", "authn", "authentication", "identity"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/deltanovember/passport-yahoo-oauth-contacts.git"
+    "url": "https://github.com/novalina/passport-yahoo-contacts.git"
   },
   "author": {
-    "name": "Don Nguyen",
-    "email": "dngu047@gmail.com"
+    "name": "Novalina Nursalim",
+    "email": "novalina@gmail.com"
   },
   "licenses": [ {
     "type": "MIT",
     "url": "http://www.opensource.org/licenses/MIT" 
   } ],
-  "main": "./lib/passport-yahoo-oauth-contacts",
+  "main": "./lib/passport-yahoo-contacts",
   "dependencies": {
     "pkginfo": "0.2.x",
     "passport-oauth": "0.1.x"
