@@ -33,7 +33,7 @@ vows.describe('YahooStrategy').addBatch({
         var body = '{   \
           "profile":   \
           {  \
-            "uri":"http:\/\/social.yahooapis.com\/v1\/user\/12345\/profile",   \
+            "uri":"https:\/\/social.yahooapis.com\/v1\/user\/12345\/profile",   \
             "guid": "12345",   \
             "created": "2008-08-26T23:35:16Z",  \
             "familyName": "Edgerton",   \
@@ -43,7 +43,7 @@ vows.describe('YahooStrategy').addBatch({
             "image":   \
             {   \
               "height": 225,  \
-              "imageUrl": "http:\/\/img.avatars.yahoo.com\/users\/1YfXUc4vMAAEB9IFDbJ_vk45UmUYE==.large.png",   \
+              "imageUrl": "https:\/\/img.avatars.yahoo.com\/users\/1YfXUc4vMAAEB9IFDbJ_vk45UmUYE==.large.png",   \
               "size": "150x225",   \
               "width": 150   \
             },   \
@@ -133,7 +133,7 @@ vows.describe('YahooStrategy').addBatch({
               "NETWORKING"  \
             ],   \
             "nickname": "Sam",  \
-            "profileUrl": "http:\/\/social.yahooapis.com\/v1/user\/profile\/usercard",  \
+            "profileUrl": "https:\/\/social.yahooapis.com\/v1/user\/profile\/usercard",  \
              "relationshipStatus": "MARRIED",   \
             "schools":   \
             [   \
